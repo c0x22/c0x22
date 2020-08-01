@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cryptex</h1>
 <h3 align="center">Coding stuff from time to time, In love with Javascript and Web Development, occasionally interested in ML. Born in United States of Poland, Most if not all repo's are private =(</h3>
 
-- 🔭 I’m currently working on **Eating Pizza and being lazy**
+- 🔭 I’m currently working on **Cave lifestyle**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CryptexDaddy](https://github.com/CryptexDaddy)
 
